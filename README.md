@@ -39,7 +39,7 @@ h1,h2,h3,h4,h5,h6 {
     </div>
 
     <div class="w3-col m6 w3-padding-large w3-card-4 ">
-      <h1 class="w3-center w3-animate-left w3-card-4 w3-border w3-text-green w3-hover-red ">Forseen</h1><hr>
+      <h1 class="w3-center w3-animate-left w3-card-4 w3-border  w3-hover-red ">Forseen</h1><hr>
       <h5 class="w3-center">คาวหวานที่นี่มีทุกอย่าง</h5>
       <p class="w3-large">ร้าน ฟอซีน เป็นร้านอาหารเน้นตอนกลางคืน ซึมซับบรรยากาศหาดใหญ่ยามค่ำคืน และลิ้มรสอาหารความหวานเลิศรส มีทั้งอาหารจารเดียว สเต็ก โรตี และที่ขึ้นชื่อของที่นี่คือชาชักนั่นเอง 
 ที่สำคัญยังเป็นร้านอาหารฮาลาลอีกด้วย ซึ่งถือได้ว่าเหมาะกับทุกเพศทุกวัยจริงๆ ราคาคุ้มค่าที่จะรัปประทานแน่นอน  </P>
